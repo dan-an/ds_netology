@@ -1,0 +1,1 @@
+select title, array_length(special_features, 1) from film
